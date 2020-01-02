@@ -1,3 +1,3 @@
 # OpenGL C Programs
 
-From the documentation
+From the official OpenGL documentation.
